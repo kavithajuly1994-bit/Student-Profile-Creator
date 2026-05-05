@@ -23,5 +23,15 @@
 * Implemented functionality to:  Add a new subject to the existing list
 * Updated and displayed the modified subjects list
 
+🚀 --------STUDENT'S PROFILE--------
+
+Name: kavitha
+Age: 32
+Favourite subjects: Excel, SQL, Power BI
+
+Enter additional subject to add: Python
+
+Updated subjects: Excel, SQL, Power BI, Python
+
 📚 Conclusion
 * This project provides a basic understanding of handling user input and managing data in Python. It serves as a foundation for building more advanced student management systems.
