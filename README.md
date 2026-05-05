@@ -1,4 +1,5 @@
 📘 Student-Profile-Creator
+
 📌 Project Overview
 * The Student Profile Creator is a simple Python-based project designed to collect and manage basic student information. It allows users to input personal details such as name, age, and favourite subjects, and also provides the ability to update the list of subjects dynamically.
 * This project demonstrates fundamental programming concepts like user input, variables, and string manipulation, making it ideal for beginners.
